@@ -440,6 +440,7 @@ BinaryOperator |二元操作符， 传入的两个参数的类型和返回类型
 ---
 **关注公众号，一起交流，微信搜一搜: 潜行前行**
 ---
+![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91c2VyLWdvbGQtY2RuLnhpdHUuaW8vMjAyMC83LzE5LzE3MzY3Yjk0ZGEwZTlmZDI?x-oss-process=image/format,png)
 # 参考文章
 -	[Annotation详解](https://blog.csdn.net/u013703461/article/details/66259013)  
 -	[Java注解（Annotation）原理详解](https://blog.csdn.net/lylwo317/article/details/52163304)
