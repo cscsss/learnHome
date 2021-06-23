@@ -27,7 +27,7 @@
 -  [基础篇：java.security框架之签名、加密、摘要及证书](https://mp.weixin.qq.com/s/_vZh0dQBo-TaEJLGApXCxQ)
 -  [基础篇：JDK8的日期处理API－必知必备](https://mp.weixin.qq.com/s/V6MNWk5YM8NyJhmc4iQlBQ)
 -  [基础篇：JAVA原子组件和同步组件](https://mp.weixin.qq.com/s/fvfoC7_VUUG5Rh3r6elGXw)
--  [基础篇：JAVA.Stream函数，优雅的数据流操作](https://mp.weixin.qq.com/s/m6UfRqCl3R0AR79-8DXOPg)
+-  [基础篇：JAVA.Stream函数，优雅的数据流操作](https://github.com/cscsss/learnHome/blob/main/java%E5%9F%BA%E7%A1%80%E7%AF%87/%E5%9F%BA%E7%A1%80%E7%AF%87%EF%BC%9AJAVA.Stream%E5%87%BD%E6%95%B0%EF%BC%8C%E4%BC%98%E9%9B%85%E7%9A%84%E6%95%B0%E6%8D%AE%E6%B5%81%E6%93%8D%E4%BD%9C.md)
 -  [基础篇：异步编程不会？我教你啊！CompeletableFuture](https://mp.weixin.qq.com/s/siixcALGcVDPGqwNpJdc1w)
 -  [基础篇：深入解析JAVA泛型](https://mp.weixin.qq.com/s/Wsghh5TTgoBFuJ4onOsJcw)
 -  [基础篇：深入解析JAVA注解机制](https://mp.weixin.qq.com/s/7XyOtDcxzvLBzV_FDrdScw)
