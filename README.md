@@ -48,6 +48,7 @@
 -  [工具篇：介绍几个好用的guava工具类](https://mp.weixin.qq.com/s/_YZxx0tgUoW0foymDGjTQg)
 -  [工具篇：JAVA开发之常用工具](https://mp.weixin.qq.com/s/CfMDLZfJB0to7KP8sMIAGw)
 
+![](https://img-blog.csdnimg.cn/img_convert/30ba9fb33f98916352d29d557d216212.png)
 
 # 简介/公告
 -  推荐　[基础篇：详解锁原理，volatile+cas、synchronized的底层实现](https://mp.weixin.qq.com/s/3wvWPg7s4E0SbbYR6xK_aA)
